@@ -34,6 +34,14 @@
 
 [-] More Soon
 
+- Rat Washing Tycoon []
+
+[+] Autofarm [Auto Collect Rats, Auto Sell Rats]
+
+[+] Complete Obby
+
+[-] Complete Obby only works on Executors with firetouchinterest :)
+
 - Supported Executors -
 
 [-] Synapse X [Highly Recommend, Most Scripts Use Synapse X Functions]
